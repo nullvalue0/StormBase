@@ -1,0 +1,6 @@
+StormBase Changelog
+===================
+
+v0.1 beta - 11/11/2004
+----------------------
+First Release.

@@ -1,0 +1,41 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\WINDOWS\system32\STDOLE2.TLB#OLE Automation
+Reference=*\G{EF53050B-882E-4776-B643-EDA472E8E3F2}#2.7#0#..\..\Program Files\Common Files\system\ado\msado27.tlb#Microsoft ActiveX Data Objects 2.7 Library
+Object={84AF4DF3-4B59-4D87-85BA-FA878460F831}#6.4#0; StormDoor.ocx
+Form=frmMain.frm
+Module=modGlobal; modGlobal.bas
+IconForm="frmMain"
+Startup="frmMain"
+ExeName32="StormBase.exe"
+Path32="..\..\BBS\StormBase"
+Command32=""
+Name="StormBase"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="The Board Room, Inc."
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1
+
+[AppForge Global]
+MODID=FC59D680-AC0A-4419-84DA-43F0130B95C3
